@@ -11,7 +11,6 @@ public class CatalogoTests
         var entregas = Catalogo.Listar();
         Assert.NotEmpty(entregas);
         Assert.Equal(entregas.Length, entregas.Select(e => e.Id).Distinct().Count());
-        Assert.Fail("Falha proposital Experimento A");
     }
 
     [Fact]
