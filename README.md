@@ -41,11 +41,11 @@ Promover para Produção: Na aba Actions do GitHub, selecionar Promover para Pro
 
 2. Execução Saudável — CI e Staging
 
-Link da Execução: https://github.com/[SEU-USUARIO]/ceub-cd-dotnet10/actions/runs/[RUN_ID_STAGING_SAUDAVEL]
+Link da Execução: https://github.com/rafaelvaz-arch/ceub-cd-dotnet10/actions/runs/43735101366
 
-Run ID: [RUN_ID_STAGING_SAUDAVEL]
+Run ID: 43735101366
 
-Commit SHA: [HASH_CURTO_COMMIT_SAUDAVEL]
+Commit SHA: b8226d759a63d2d2bb23caf7acab9498a924e951
 
 Artefato Gerado: Imagem Docker empacotada e anexada na execução do workflow (ceub-api-image).
 
